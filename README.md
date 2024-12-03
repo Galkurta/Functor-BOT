@@ -40,7 +40,7 @@ npm install
 
 ## Configuration
 
-1. Create a `data.txt` file in the root directory
+1. Edit `data.txt` file in the root directory
 2. Add your account tokens, one account per line:
 
 ```
