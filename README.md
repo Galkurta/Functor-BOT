@@ -28,7 +28,7 @@ An automation bot for Functor Network daily check-ins and managing multiple acco
 3. Clone this repository:
 
 ```bash
-git clone https://github.com/Galkurta/Functor-BOT.git
+git clone https://github.com/Galkurta/Functor-BOT
 cd Functor-BOT
 ```
 
